@@ -1,0 +1,26 @@
+[
+  {
+    "id": "chicken",
+    "title": "chicken delight",
+    "long description": "this is some long description",
+    "thumbnail": ""
+  },
+  {
+    "id": "steak",
+    "title": "steak night",
+    "long description": "this is some long description",
+    "thumbnail": ""
+  },
+  {
+    "id": "ribs",
+    "title": "ribs are alright",
+    "long description": "this is some long description",
+    "thumbnail": ""
+  },
+  {
+    "id": "lamb",
+    "title": "lambs are soft",
+    "long description": "this is some long description",
+    "thumbnail": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "chicken-fillets",
+    "categoryId": "chicken",
+    "alt": "chicken",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "chicken" },
+      { "id": 1, "name": "spinach" },
+      { "id": 2, "name": "onion" }
+    ],
+    "name": "chicken fillet",
+    "price": "300 kr"
+  },
+  {
+    "id": "blue steak",
+    "categoryId": "steak",
+    "alt": "steak",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "steak" },
+      { "id": 1, "name": "stilton" },
+      { "id": 2, "name": "mushrooms" }
+    ],
+    "name": "blue steak",
+    "price": "600 kr"
+  },
+  {
+    "id": "bbq-ribs",
+    "categoryId": "ribs",
+    "alt": "ribs",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "ribs" },
+      { "id": 1, "name": "mustard" },
+      { "id": 2, "name": "chips" }
+    ],
+    "name": "bbq ribs",
+    "price": "500 kr"
+  },
+  {
+    "id": "lamb stew",
+    "categoryId": "lamb",
+    "alt": "lamb",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "lamb" },
+      { "id": 1, "name": "potatoes" },
+      { "id": 2, "name": "onion" }
+    ],
+    "name": "lamb stew",
+    "price": "450 kr"
+  },
+  {
+    "id": "chicken-wings",
+    "categoryId": "chicken",
+    "alt": "chicken",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "chicken" },
+      { "id": 1, "name": "bbq sauce" },
+      { "id": 2, "name": "chips" }
+    ],
+    "name": "chicken wings",
+    "price": "230 kr"
+  },
+  {
+    "id": "steak diane",
+    "categoryId": "steak",
+    "alt": "steak",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "steak" },
+      { "id": 1, "name": "cream sauce" },
+      { "id": 2, "name": "mushrooms" }
+    ],
+    "name": "steak diane",
+    "price": "800 kr"
+  },
+  {
+    "id": "slow cooked ribs",
+    "categoryId": "ribs",
+    "alt": "ribs",
+    "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
+    "descriptionShort": "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "imageHero": "",
+    "imageThumbnail": "",
+    "recipe": [
+      { "id": 0, "name": "ribs" },
+      { "id": 1, "name": "wood" },
+      { "id": 2, "name": "coleslaw" }
+    ],
+    "name": "slow cooked ribs",
+    "price": "650 kr"
+  }
+]
