@@ -16,7 +16,7 @@
     "price": "300 kr"
   },
   {
-    "id": "blue steak",
+    "id": "blue-steak",
     "categoryId": "steak",
     "alt": "steak",
     "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
@@ -48,7 +48,7 @@
     "price": "500 kr"
   },
   {
-    "id": "lamb stew",
+    "id": "lamb-stew",
     "categoryId": "lamb",
     "alt": "lamb",
     "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
@@ -80,7 +80,7 @@
     "price": "230 kr"
   },
   {
-    "id": "steak diane",
+    "id": "steak-diane",
     "categoryId": "steak",
     "alt": "steak",
     "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
@@ -96,7 +96,7 @@
     "price": "800 kr"
   },
   {
-    "id": "slow cooked ribs",
+    "id": "slow-cooked-ribs",
     "categoryId": "ribs",
     "alt": "ribs",
     "descriptionLong": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nobis sed quod possimus totam illum animi quibusdam aspernatur aut ducimus. Quisquam veniam tenetur iusto quod, ipsum libero ex autem provident!",
